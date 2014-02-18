@@ -1,0 +1,1 @@
+This site is the portal to all material, tutorials, and assets hosted on GitHub relating to the [Maryland Center for Women in Computing](http://mcwic.cs.umd.edu/).

@@ -1,0 +1,4 @@
+name: MCWIC
+pygments: true
+base_url: /
+markdown: redcarpet
