@@ -1,5 +1,6 @@
 ---
 layout: main
+title: MCWIC On GitHub
 ---
 
 <div class="jumbotron">
